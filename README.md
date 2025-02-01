@@ -1,4 +1,4 @@
-# Hi there , Iam Ahmed Shalkamy Back-End developer (PHP-laravel) <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
+# Hi there , Iam Ahmed Shalkamy Back-End developer (PHP-laravel) <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />    
 
 
 
