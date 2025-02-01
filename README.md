@@ -1,6 +1,7 @@
+# Hi there , Iam Ahmed Shalkamy Back-End developer (PHP-laravel) <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
 
-Hi there 👋🏻, Iam Ahmed Shakamy Back-end developer (php - laravel)
+
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
