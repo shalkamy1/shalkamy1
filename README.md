@@ -1,7 +1,7 @@
 
 
 Hi there, Iam Ahmed Shakamy Back-end developer (php - laravel)
-div align="center">
+<div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 	<br>
