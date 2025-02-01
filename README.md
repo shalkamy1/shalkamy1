@@ -1,8 +1,8 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+
 
 Hi there, Iam Ahmed Shakamy Back-end developer (php - laravel)
 
-
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
 const Ahmed  = {
