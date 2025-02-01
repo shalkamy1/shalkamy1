@@ -1,4 +1,23 @@
-## Hi there 👋 Iam Ahmed Shalkamy Back-end developer(php - laravel)
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+
+Hi there, Iam Ahmed Shakamy Back-end developer (php - laravel)
+
+
+
+```javascript
+const Ahmed  = {
+  
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: [ "Angular"],
+            css: ["bootstrap"]
+        },
+        backEnd: [, "PHP"],
+        databases: ["MySql", ],
+    }
+};
+```
 
 
 ## 🌐 Socials:
@@ -15,4 +34,9 @@
 [![](https://visitcount.itsvg.in/api?id=shalkamy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+---
+
+⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
