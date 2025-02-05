@@ -17,8 +17,8 @@ const Ahmed  = {
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: [ "Angular"],
-            css: ["bootstrap"]
+            js: [ "Jquery"],
+            css: ["bootstrap", "tailwind"]
         },
         backEnd: ["Laravel", "PHP"]
         databases: ["MySql", "sql server"]
